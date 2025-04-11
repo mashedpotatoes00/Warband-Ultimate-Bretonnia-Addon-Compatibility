@@ -1,4 +1,4 @@
-# Warband-Ultimate-Bretonnia-Addon-Compatibility
+# Warband-Ultimate-Bretonnia-Addon-Compatibility-Mod
 Compatability patches for various Warhammer 3 mods that add units to Bretonnia 
 
 Thanks to the creators of the mods whos units are added:
